@@ -10,7 +10,7 @@
 
       <Meta name="format-detection" content="telephone=yes,email=no,address=yes"/>
       <Meta name="category" content="dierenarts"/>
-      <meta name="subject" content="dierenarts">
+      <Meta name="subject" content="dierenarts">
       <Meta name="author" content="Dierenarts Verboom & de Kok"/>
       <Meta name="copyright" content="© 2025 Dierenarts Verboom & de Kok. All rights reserved."/> 
 
@@ -24,8 +24,8 @@
 
       <!-- OpenGraph Meta Tags -->
       <Meta property="og:title" content="Dierenarts Verboom & de Kok"/>
-      <meta name="og:phone_number" content="0113-290800"/>
-      <meta name="og:email" content="info@dierenartsverboom.nl"/>
+      <Meta name="og:phone_number" content="0113-290800"/>
+      <Meta name="og:email" content="info@dierenartsverboom.nl"/>
       <Meta property="og:description" content="Specialistische zorg voor duiven en duivensport. Vaccinaties, mestonderzoek, keeluitstrijkjes en advies voor gezonde en sterke duiven. Deskundige begeleiding voor liefhebbers in Zeeland."/>
       <Meta property="og:image" content="dierenartsverboom.nl/img/logo-big.30fd7711.png"/>
       <Meta property="og:locale" content="nl_NL"/>

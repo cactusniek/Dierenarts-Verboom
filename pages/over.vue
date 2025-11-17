@@ -5,12 +5,12 @@
     <Head>
       <Title>Over ons - Dierenarts Verboom & de Kok</Title>
 
-      <meta name="description" content="Al sinds 1987 zetten wij ons in voor de beste zorg voor uw huisdier. Maak kennis met dierenartsen Wim Verboom en Carin de Kok."/>
+      <Meta name="description" content="Al sinds 1987 zetten wij ons in voor de beste zorg voor uw huisdier. Maak kennis met dierenartsen Wim Verboom en Carin de Kok."/>
       <Meta name="keywords" content="Over ons, dierenarts Kapelle, Dierenarts Verboom & de Kok, Wim Verboom, Carin de Kok, gezelschapsdieren, huisdieren, veterinaire zorg, praktijkinformatie, dierenarts Zeeland, ervaring dierenarts, persoonlijke zorg, honden, katten, konijnen, duiven, dieetvoeding, veterinaire geschiedenis, zelfstandige dierenartspraktijk"/>
 
       <Meta name="format-detection" content="telephone=yes,email=no,address=yes"/>
       <Meta name="category" content="dierenarts"/>
-      <meta name="subject" content="dierenarts">
+      <Meta name="subject" content="dierenarts">
       <Meta name="author" content="Dierenarts Verboom & de Kok"/>
       <Meta name="copyright" content="© 2025 Dierenarts Verboom & de Kok. All rights reserved."/> 
 
@@ -24,8 +24,8 @@
 
       <!-- OpenGraph Meta Tags -->
       <Meta property="og:title" content="Dierenarts Verboom & de Kok"/>
-      <meta name="og:phone_number" content="0113-290800"/>
-      <meta name="og:email" content="info@dierenartsverboom.nl"/>
+      <Meta name="og:phone_number" content="0113-290800"/>
+      <Meta name="og:email" content="info@dierenartsverboom.nl"/>
       <Meta property="og:description" content="Al sinds 1987 zetten wij ons in voor de beste zorg voor uw huisdier. Maak kennis met dierenartsen Wim Verboom en Carin de Kok."/>
       <Meta property="og:image" content="dierenartsverboom.nl/img/logo-big.30fd7711.png"/>
       <Meta property="og:locale" content="nl_NL"/>

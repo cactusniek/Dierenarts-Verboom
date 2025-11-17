@@ -5,12 +5,12 @@
   <Head>
     <Title>Bijsluiters - Dierenarts Verboom & de Kok</Title>
 
-    <meta name="description" content="Online kunt u ook de bijsluiters vinden van de medicijnen die wij in de praktijk gebruiken. Zo heeft u altijd snel toegang tot belangrijke informatie over dosering, toepassing en eventuele bijwerkingen voor uw hond, kat, konijn of duif."/> 
+    <Meta name="description" content="Online kunt u ook de bijsluiters vinden van de medicijnen die wij in de praktijk gebruiken. Zo heeft u altijd snel toegang tot belangrijke informatie over dosering, toepassing en eventuele bijwerkingen voor uw hond, kat, konijn of duif."/> 
     <Meta name="keywords" content="bijsluiters, medicijnen huisdieren, diergeneeskunde, hond, kat, konijn, duif, gezelschapsdieren, vaccinaties, ontwormen, vlooienbestrijding, hartworm, antibioticum, pijnstilling, ontstekingsremmers, parasieten, diergeneeskundige zorg, medische bijsluiters, Dierenarts Verboom & de Kok, Kapelle, Zeeland, spoed, infecties, allergieën, dieetvoeding, voeding bij ziekte, hondenziekten, katziekten, konijnenziekten, luchtweginfecties, maag- en darmproblemen, huidproblemen"/>
 
     <Meta name="format-detection" content="telephone=yes,email=no,address=yes"/>
     <Meta name="category" content="dierenarts"/>
-    <meta name="subject" content="dierenarts">
+    <Meta name="subject" content="dierenarts">
     <Meta name="author" content="Dierenarts Verboom & de Kok"/>
     <Meta name="copyright" content="© 2025 Dierenarts Verboom & de Kok. All rights reserved."/> 
 
@@ -24,8 +24,8 @@
 
     <!-- OpenGraph Meta Tags -->
     <Meta property="og:title" content="Dierenarts Verboom & de Kok"/>
-    <meta name="og:phone_number" content="0113-290800"/>
-    <meta name="og:email" content="info@dierenartsverboom.nl"/>
+    <Meta name="og:phone_number" content="0113-290800"/>
+    <Meta name="og:email" content="info@dierenartsverboom.nl"/>
     <Meta property="og:description" content="Online kunt u ook de bijsluiters vinden van de medicijnen die wij in de praktijk gebruiken. Zo heeft u altijd snel toegang tot belangrijke informatie over dosering, toepassing en eventuele bijwerkingen voor uw hond, kat, konijn of duif."/>
     <Meta property="og:image" content="dierenartsverboom.nl/img/logo-big.30fd7711.png"/>
     <Meta property="og:locale" content="nl_NL"/>

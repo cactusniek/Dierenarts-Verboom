@@ -10,7 +10,7 @@
 
       <Meta name="format-detection" content="telephone=yes,email=no,address=yes"/>
       <Meta name="category" content="dierenarts"/>
-      <Meta name="subject" content="dierenarts">
+      <Meta name="subject" content="dierenarts"/>
       <Meta name="author" content="Dierenarts Verboom & de Kok"/>
       <Meta name="copyright" content="© 2025 Dierenarts Verboom & de Kok. All rights reserved."/> 
 
@@ -83,13 +83,13 @@
         </div>
 
         <div class="iframe-container-mobile">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.403381040776!2d3.9506826930389574!3d51.48746472298837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xcaaa1f19c40cd5%3A0x160cbd6a6e4c6c77!2sDierenartsenpraktijk%20Verboom!5e0!3m2!1snl!2snl!4v1672146833551!5m2!1snl!2snl" width="250" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.403381040776!2d3.9506826930389574!3d51.48746472298837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xcaaa1f19c40cd5%3A0x160cbd6a6e4c6c77!2sDierenartsenpraktijk%20Verboom!5e0!3m2!1snl!2snl!4v1672146833551!5m2!1snl!2snl" width="250" height="250" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <div class="iframe-container-tablet">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.403381040776!2d3.9506826930389574!3d51.48746472298837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xcaaa1f19c40cd5%3A0x160cbd6a6e4c6c77!2sDierenartsenpraktijk%20Verboom!5e0!3m2!1snl!2snl!4v1672146833551!5m2!1snl!2snl" width="280" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.403381040776!2d3.9506826930389574!3d51.48746472298837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xcaaa1f19c40cd5%3A0x160cbd6a6e4c6c77!2sDierenartsenpraktijk%20Verboom!5e0!3m2!1snl!2snl!4v1672146833551!5m2!1snl!2snl" width="280" height="280" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <div class="iframe-container-desktop">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.403381040776!2d3.9506826930389574!3d51.48746472298837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xcaaa1f19c40cd5%3A0x160cbd6a6e4c6c77!2sDierenartsenpraktijk%20Verboom!5e0!3m2!1snl!2snl!4v1672146833551!5m2!1snl!2snl" width="540" height="540" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.403381040776!2d3.9506826930389574!3d51.48746472298837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xcaaa1f19c40cd5%3A0x160cbd6a6e4c6c77!2sDierenartsenpraktijk%20Verboom!5e0!3m2!1snl!2snl!4v1672146833551!5m2!1snl!2snl" width="540" height="540" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
       </div>

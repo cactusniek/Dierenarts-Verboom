@@ -11,7 +11,7 @@
 
       <Meta name="format-detection" content="telephone=yes,email=no,address=yes"/>
       <Meta name="category" content="dierenarts"/>
-      <Meta name="subject" content="dierenarts">
+      <Meta name="subject" content="dierenarts"/>
       <Meta name="author" content="Dierenarts Verboom & de Kok"/>
       <Meta name="copyright" content="© 2025 Dierenarts Verboom & de Kok. All rights reserved."/> 
 
@@ -46,8 +46,8 @@
 
     <main>
       <div class="container-frontpage">
-        <!-- <img class="desktop-img" src="../assets/voorkant.jpg" alt="desktop-img">
-        <img class="mobile-img" src="../assets/voorkant-mobile.jpg" alt="mobile-img"> -->
+        <img class="desktop-img" src="../assets/voorkant.jpg" alt="desktop-img">
+        <img class="mobile-img" src="../assets/voorkant-mobile.jpg" alt="mobile-img">
 
         <h1 class="hidden-text">Al sinds 1987 zetten wij ons in voor de beste zorg voor uw huisdier. Persoonlijk contact, goede begeleiding en kunde. Voor spoedgevallen te bereiken op 0113 - 290800 voor klanten van onze praktijk.</h1>
       </div>

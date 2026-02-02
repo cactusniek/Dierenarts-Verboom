@@ -10,7 +10,7 @@
 
     <Meta name="format-detection" content="telephone=yes,email=no,address=yes"/>
     <Meta name="category" content="dierenarts"/>
-    <Meta name="subject" content="dierenarts">
+    <Meta name="subject" content="dierenarts"/>
     <Meta name="author" content="Dierenarts Verboom & de Kok"/>
     <Meta name="copyright" content="© 2025 Dierenarts Verboom & de Kok. All rights reserved."/> 
 
